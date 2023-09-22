@@ -211,13 +211,17 @@ header a:hover {
     text-decoration: none;
   }
 
-  /* Footer styling */ 
+  
 .odin{
     background-color: #1F2937;
     color: #E1E5EB;
     padding-top: 40px; 
     padding-bottom: 40px; 
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 
